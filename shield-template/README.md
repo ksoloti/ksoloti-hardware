@@ -33,16 +33,17 @@ The template/project has its own little library of parts in case you're looking 
 
 ## Top view
 
-![ksoloti_shield_template_top.png](/meta/ksoloti_shield_template_top.png)
+![ksoloti_shield_template_top.png](/raw/master/shield-template/meta/ksoloti_shield_template_top.png)
+
 
 ## Bottom view
 
-![ksoloti_shield_template_bottom.png](/meta/ksoloti_shield_template_bottom.png)
+![ksoloti_shield_template_bottom.png](/raw/master/shield-template/meta/ksoloti_shield_template_bottom.png)
 
 ## Bottom view with Core plugged in
 
-![ksoloti_shield_template_bottom_3d.png](/meta/ksoloti_shield_template_bottom_3d.png)
+![ksoloti_shield_template_bottom_3d.png](/raw/master/shield-template/meta/ksoloti_shield_template_bottom_3d.png)
 
 ## Parts library
 
-![ksoloti_shield_template_parts.png](/meta/ksoloti_shield_template_parts.png)
+![ksoloti_shield_template_parts.png](/raw/master/shield-template/meta/ksoloti_shield_template_parts.png)
